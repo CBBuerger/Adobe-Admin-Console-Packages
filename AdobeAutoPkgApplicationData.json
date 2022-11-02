@@ -209,7 +209,16 @@
                 "display_name": "Adobe Bridge 2022",
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "13.0": {
+                "app_bundle_id": "com.adobe.bridge13",
+                "app_json_version_key": "ProductVersion",
+                "app_path": "/Applications/Adobe Bridge 2023/Adobe Bridge 2023.app",
+                "app_description": "Centralize your creative assets.",
+                "display_name": "Adobe Bridge 2023",
+                "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
@@ -264,7 +273,17 @@
                 "display_name": "Adobe Illustrator 2022",
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
+            }, 
+            "27.0": {
+                "app_bundle_id": "com.adobe.illustrator",
+                "app_json_version_key": "CodexVersion",
+                "app_path": "/Applications/Adobe Illustrator 2023/Adobe Illustrator.app",
+                "app_description": "Create stunning illustrations and graphics.",
+                "display_name": "Adobe Illustrator 2023",
+                "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
+                "version_comparison_key": "CFBundleShortVersionString"
             }
+
         }
     },
     {
@@ -350,7 +369,16 @@
                 "display_name": "Adobe Premiere Pro 2022",
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "23.0": 
+                "app_bundle_id": "com.adobe.PremierePro.23",
+                "app_json_version_key": "CodexVersion",
+                "app_path": "/Applications/Adobe Premiere Pro 2023/Adobe Premiere Pro 2023.app",
+                "app_description": "Edit and craft polished films and video.",
+                "display_name": "Adobe Premiere Pro 2023",
+                "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
