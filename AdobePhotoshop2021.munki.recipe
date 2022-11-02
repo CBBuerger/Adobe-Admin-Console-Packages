@@ -9,7 +9,7 @@
         <key>Input</key>
         <dict>
             <key>MUNKI_CATEGORY</key>
-            <string>Adobe CC 2021</string>
+            <string>Adobe</string>
             <key>MUNKI_DEVELOPER</key>
             <string>Adobe</string>
             <key>NAME</key>
