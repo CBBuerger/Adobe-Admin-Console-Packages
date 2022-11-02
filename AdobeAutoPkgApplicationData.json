@@ -370,7 +370,7 @@
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
             },
-            "23.0": 
+            "23.0": {
                 "app_bundle_id": "com.adobe.PremierePro.23",
                 "app_json_version_key": "CodexVersion",
                 "app_path": "/Applications/Adobe Premiere Pro 2023/Adobe Premiere Pro 2023.app",
