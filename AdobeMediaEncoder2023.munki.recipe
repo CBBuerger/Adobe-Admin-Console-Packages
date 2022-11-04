@@ -3,9 +3,9 @@
 <plist version="1.0">
     <dict>
         <key>Description</key>
-        <string>Imports Adobe Photoshop 2022 into Munki</string>
+        <string>Imports Adobe Media Encoder 2023 into Munki</string>
         <key>Identifier</key>
-        <string>com.github.CBBuerger-recipes.munki.Adobe Photoshop 2022</string>
+        <string>com.github.CBBuerger-recipes.munki.Adobe Media Encoder 2023</string>
         <key>Input</key>
         <dict>
             <key>MUNKI_CATEGORY</key>
@@ -13,7 +13,7 @@
             <key>MUNKI_DEVELOPER</key>
             <string>Adobe</string>
             <key>NAME</key>
-            <string>AdobePhotoshop2022</string>
+            <string>AdobeMediaEncoder2023</string>
             <key>MUNKI_REPO_SUBDIR</key>
             <string>Adobe</string>
             <key>pkginfo</key>
