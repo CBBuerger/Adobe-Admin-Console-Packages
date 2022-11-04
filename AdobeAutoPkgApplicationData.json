@@ -18,7 +18,16 @@
                 "display_name": "Adobe Media Encoder 2022",
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "23.0": {
+                "app_bundle_id": "com.adobe.ame.application.23",
+                "app_json_version_key": "CodexVersion",
+                "app_path": "/Applications/Adobe Media Encoder 2023/Adobe Media Encoder 2023.app",
+                "app_description": "Quickly output video files for virtually any screen.",
+                "display_name": "Adobe Media Encoder 2023",
+                "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
@@ -41,7 +50,16 @@
                 "display_name": "Adobe After Effects 2022",
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "23.0": {
+                "app_bundle_id": "com.adobe.AfterEffects",
+                "app_json_version_key": "CodexVersion",
+                "app_path": "/Applications/Adobe After Effects 2023/Adobe After Effects 2023.app",
+                "app_description": "Industry Standard motion graphics & visual effects.",
+                "display_name": "Adobe After Effects 2023",
+                "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
@@ -64,7 +82,16 @@
                 "display_name": "Adobe InCopy 2022",
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "18.0": {
+                "app_bundle_id": "com.adobe.InCopy",
+                "app_json_version_key": "ProductVersion",
+                "app_path": "/Applications/Adobe InCopy 2023/Adobe InCopy 2023.app",
+                "app_description": "Collaborate with copywriters and editors.",
+                "display_name": "Adobe InCopy 2023",
+                "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
@@ -112,7 +139,16 @@
                 "display_name": "Adobe Audition 2022",
                 "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "23.0": {
+                "app_bundle_id": "com.adobe.Audition",
+                "app_json_version_key": "CodexVersion",
+                "app_path": "/Applications/Adobe Audition 2023/Adobe Audition 2023.app",
+                "app_description": "Bring stories to life with audio.",
+                "display_name": "Adobe Audition 2023",
+                "minos_regex": "macChecks={minOSVersion:\\\"(.*?)\\\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
@@ -135,7 +171,16 @@
                 "display_name": "Adobe Character Animator 2022",
                 "minos_regex": "macChecks={minOSVersion:\"(.*?)\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "23.0": {
+                "app_bundle_id": "com.adobe.Character-Animator.application",
+                "app_json_version_key": "CodexVersion",
+                "app_path": "/Applications/Adobe Character Animator 2023/Adobe Character Animator 2023.app",
+                "app_description": "Animate in real time.",
+                "display_name": "Adobe Character Animator 2023",
+                "minos_regex": "macChecks={minOSVersion:\"(.*?)\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
@@ -186,7 +231,16 @@
                 "display_name": "Adobe Animate 2022",
                 "minos_regex": "macChecks={minOSVersion:\"(.*?)\"",
                 "version_comparison_key": "CFBundleShortVersionString"
-            }
+            },
+            "23.0": {
+                "app_bundle_id": "com.adobe.Adobe-Animate-2023.application",
+                "app_json_version_key": "CodexVersion",
+                "app_path": "/Applications/Adobe Animate 2023/Adobe Animate 2023.app",
+                "app_description": "A new age for animation. Any platform, device and style.",
+                "display_name": "Adobe Animate 2023",
+                "minos_regex": "macChecks={minOSVersion:\"(.*?)\"",
+                "version_comparison_key": "CFBundleShortVersionString"
+            } 
         }
     },
     {
