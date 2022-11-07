@@ -3,9 +3,9 @@
 <plist version="1.0">
     <dict>
         <key>Description</key>
-        <string>Imports Adobe Audition 2021 into Munki</string>
+        <string>Imports Adobe After Effects 2023 into Munki</string>
         <key>Identifier</key>
-        <string>com.github.CBBuerger-recipes.munki.Adobe Audition 2021</string>
+        <string>com.github.CBBuerger-recipes.munki.Adobe After Effects 2023</string>
         <key>Input</key>
         <dict>
             <key>MUNKI_CATEGORY</key>
@@ -13,7 +13,7 @@
             <key>MUNKI_DEVELOPER</key>
             <string>Adobe</string>
             <key>NAME</key>
-            <string>AdobeAudition2021</string>
+            <string>AdobeAfterEffects2023</string>
             <key>MUNKI_REPO_SUBDIR</key>
             <string>Adobe</string>
             <key>pkginfo</key>
