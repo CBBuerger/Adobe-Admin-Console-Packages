@@ -1,9 +1,6 @@
 # Adobe Admin Console Packages
 
 ## About  
-Since 2021, more and more of the Adobe Admin Console Packages have had signed/encrypted payloads.
-
-This means that we cannot pull apart the PKG's to retrieve the needed metadata for AutoPkg recipes.
 
 The prior iterations of our Adobe Versioner would work around this issue by having the data within the Versioner itself, but this then needed annual updates.
 
@@ -18,17 +15,20 @@ The processor [AdobeAdminConsolePackagesPkgInfoCreator](https://github.com/autop
 ## Usage
 1. Naming is important to the recipes, to start with you'll need to create [Managed Package](https://helpx.adobe.com/uk/enterprise/using/manage-packages.html) with one of the below names in the [Adobe Admin Console](https://adminconsole.adobe.com):
 
-|||||
-|:---:|:---:|:---:|:---:
-|AdobeAcrobatDC| AdobeCharacterAnimator2021| AdobeInDesign2022| AdobePremiereRush|
-|AdobeAfterEffects2021| AdobeCharacterAnimator2022| AdobeLightroomCC| AdobePremiereRush2.0|
-|AdobeAfterEffects2022| AdobeDimension| AdobeLightroomClassic|AdobeSubstance3DDesigner|
-|AdobeAnimate2021| AdobeDreamweaver2021| AdobeMediaEncoder2021|AdobeSubstance3DPainter|
-|AdobeAnimate2022| AdobeIllustrator2021| AdobeMediaEncoder2022|AdobeSubstance3DSampler|
-|AdobeAudition2021| AdobeIllustrator2022| AdobePhotoshop2021|AdobeSubstance3DStager|
-|AdobeAudition2022| AdobeInCopy2021| AdobePhotoshop2022|AdobeXD|
-|AdobeBridge2021| AdobeInCopy2022| AdobePremierePro2021||
-|AdobeBridge2022| AdobeInDesign2021| AdobePremierePro2022||
+||||
+|AdobeAcrobatDC| AdobeLightroomClassic| AdobeXD|
+|AdobeAfterEffects2021| AdobeAfterEffects20221 AdobeAfterEffects2023|
+|AdobeAnimate2021| AdobeAnimate2022| AdobeAnimate2023|
+|AdobeAudition2021| AdobeAudition2022| AdobeAudition2023|
+|AdobeBridge2021| AdobeBridge2022| AdobeBridge2023|
+|AdobeCharacterAnimator2021| AdobeCharacterAnimator2022| AdobeCharacterAnimator2023|
+|AdobeIllustrator2021| AdobeIllustrator2022| AdobeIllustrator2023|
+|AdobeInCopy2021| AdobeInCopy2022| AdobeInCopy2023|
+|AdobeInDesign2021| AdobeInDesign2022| AdobeInDesign2023|
+|AdobeMediaEncoder2021| AdobeMediaEncoder2022| AdobeMediaEncoder2023|
+|AdobePhotoshop2021| AdobePhotoshop2022| AdobePhotoshop2023|
+|AdobePremierePro2021| AdobePremierePro2022| AdobePremierePro2023|
+
 2. Download the DMG from the [Adobe Admin Console](https://adminconsole.adobe.com)
 3. Load the .app
 4. Download the title to your ~/Downloads
