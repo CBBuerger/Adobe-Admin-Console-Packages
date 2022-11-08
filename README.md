@@ -18,7 +18,7 @@ The processor [AdobeAdminConsolePackagesPkgInfoCreator](https://github.com/autop
 ||||
 |:---:|:---:|:---:
 |AdobeAcrobatDC| AdobeLightroomClassic| AdobeXD|
-|AdobeAfterEffects2021| AdobeAfterEffects20221 AdobeAfterEffects2023|
+|AdobeAfterEffects2021| AdobeAfterEffects2022| AdobeAfterEffects2023|
 |AdobeAnimate2021| AdobeAnimate2022| AdobeAnimate2023|
 |AdobeAudition2021| AdobeAudition2022| AdobeAudition2023|
 |AdobeBridge2021| AdobeBridge2022| AdobeBridge2023|
@@ -29,6 +29,7 @@ The processor [AdobeAdminConsolePackagesPkgInfoCreator](https://github.com/autop
 |AdobeMediaEncoder2021| AdobeMediaEncoder2022| AdobeMediaEncoder2023|
 |AdobePhotoshop2021| AdobePhotoshop2022| AdobePhotoshop2023|
 |AdobePremierePro2021| AdobePremierePro2022| AdobePremierePro2023|
+|AdobePremiereRush| AdobeDreamweaver2021| |
 
 2. Download the DMG from the [Adobe Admin Console](https://adminconsole.adobe.com)
 3. Load the .app
