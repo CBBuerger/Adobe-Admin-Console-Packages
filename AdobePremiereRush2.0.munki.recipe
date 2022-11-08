@@ -3,10 +3,9 @@
 <plist version="1.0">
     <dict>
         <key>Description</key>
-        <string>Imports Adobe Premiere Rush 2.0 into Munki, please review:
-https://github.com/autopkg/dataJAR-recipes/blob/master/Adobe%20Admin%20Console%20Packages/README.md</string>
+        <string>Imports Adobe Premiere Rush 2.0 into Munki</string>
         <key>Identifier</key>
-        <string>com.github.dataJAR-recipes.munki.Adobe Premiere Rush 2.0</string>
+        <string>com.github.CBBuerger-recipes.munki.Adobe Premiere Rush 2.0</string>
         <key>Input</key>
         <dict>
             <key>MUNKI_CATEGORY</key>
@@ -16,7 +15,7 @@ https://github.com/autopkg/dataJAR-recipes/blob/master/Adobe%20Admin%20Console%2
             <key>NAME</key>
             <string>AdobePremiereRush2.0</string>
             <key>MUNKI_REPO_SUBDIR</key>
-            <string>%MUNKI_CATEGORY%/%MUNKI_DEVELOPER%/%NAME%</string>
+            <string>Adobe</string>
             <key>pkginfo</key>
             <dict>
                 <key>catalogs</key>
