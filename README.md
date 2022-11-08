@@ -16,6 +16,7 @@ The processor [AdobeAdminConsolePackagesPkgInfoCreator](https://github.com/autop
 1. Naming is important to the recipes, to start with you'll need to create [Managed Package](https://helpx.adobe.com/uk/enterprise/using/manage-packages.html) with one of the below names in the [Adobe Admin Console](https://adminconsole.adobe.com):
 
 ||||
+|:---:|:---:|:---:
 |AdobeAcrobatDC| AdobeLightroomClassic| AdobeXD|
 |AdobeAfterEffects2021| AdobeAfterEffects20221 AdobeAfterEffects2023|
 |AdobeAnimate2021| AdobeAnimate2022| AdobeAnimate2023|
